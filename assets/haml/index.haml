@@ -1,0 +1,67 @@
+!!!
+%html{:lang => "en"}
+  %head
+    %meta{ :charset => "utf-8" }
+    %title donate | charity:water
+    %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
+    %meta{:content => "http://www.sassglobaltravel.com/", :name => "author"}
+    %meta{:content => "", :name => "description"}
+
+    %meta{:content => "Donate | charity : water", :property => "og:title"}/
+    %meta{:content => "Make a donation to charity : water", :property => "og:description"}/
+    %meta{:content => "website", :property => "og:type"}/
+    %meta{:content => "", :property => "og:url"}/
+    %meta{:content => "", :property => "og:image"}/
+
+    /[if lt IE 9]
+      %script{:src => "http://html5shiv.googlecode.com/svn/trunk/html5.js"}
+
+    / Fav and touch icons
+    %link{:href => "assets/apple-touch-icon-144-precomposed.png", :rel => "apple-touch-icon-precomposed", :sizes => "144x144"}/
+    %link{:href => "assets/apple-touch-icon-114-precomposed.png", :rel => "apple-touch-icon-precomposed", :sizes => "114x114"}/
+    %link{:href => "assets/apple-touch-icon-72-precomposed.png", :rel => "apple-touch-icon-precomposed", :sizes => "72x72"}/
+    %link{:href => "assets/apple-touch-icon-57-precomposed.png", :rel => "apple-touch-icon-precomposed"}/
+    %link{:href => "assets/favicon.ico", :rel => "shortcut icon"}/
+
+    %link{:rel => "stylesheet", :href => "assets/css/styles.css"}
+    %link{:href => "http://fonts.googleapis.com/css?family=Raleway:300,700", :rel => "stylesheet", :type => "text/css"}/
+
+
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-42536101-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+  %body
+    %section.headline
+      .container
+        .main-video
+          %img{:src => "assets/images/main-video.png"}
+        .donation-menu
+          %h2 Support the Water Collective
+          .donate
+            %p.button $1
+            %p.button $10
+            %p.button $20
+            %p.button $55
+            %p.button $110
+            %p.button $MORE
+        .cta-description
+          %p A carriage of the interactive is assumed to be a lustral branch. A sound is a hedgy digger. It's an undeniable fact, really; the bank of a belt becomes a choky birth. The handworked bagpipe reveals itself as a baseless grenade to those who look. A quilt sees a refrigerator as a solvent noodle. Authors often misinterpret the condition as a weighty blade, when in actuality it feels more like an eccrine underpant.
+    %section.progress
+      .container
+        .collective-logo
+          %img{:src => "assets/images/logo-water-collective.png"}
+        .stats
+          %img{:src => "assets/images/progress-water-to.jpg"}
+          %img{:src => "assets/images/progress-saved-hours.jpg"}
+          %img{:src => "assets/images/progress-trained-people.jpg"}
+    %footer
+      .container
+        %p A carriage of the interactive is assumed to be a lustral branch. A sound is a hedgy digger. It's an undeniable fact, really; the bank of a belt becomes a choky birth. The handworked bagpipe reveals itself as a baseless grenade to those who look. A quilt sees a refrigerator as a solvent noodle. Authors often misinterpret the condition as a weighty blade, when in actuality it feels more like an eccrine underpant.

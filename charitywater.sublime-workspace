@@ -1,0 +1,683 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border"
+			],
+			[
+				"help",
+				"help-links"
+			],
+			[
+				"be",
+				"be_success"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"form",
+				"form-holder"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"get",
+				"getParameterByName"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"head",
+				"headline-banner"
+			],
+			[
+				"err",
+				"error-help"
+			],
+			[
+				"page",
+				"page-bottom"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"anal-desc",
+				"anal-description"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"share",
+				"share-headline"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"post",
+				"post-roll-menu"
+			],
+			[
+				"post-",
+				"post-twitter"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"video",
+				"video-headline"
+			],
+			[
+				"top",
+				"top-cta"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"input",
+				"INPUT	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html2",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"lint",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"minify",
+				"Minify Javascript"
+			],
+			[
+				"ope",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"bro",
+				"View In Browser"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"syntaxjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 421.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/charitywater-landingpage/assets/scss/_grid-settings.scss",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/charitywater-landingpage/assets/haml/index.haml",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/charitywater-landingpage/assets/scss/styles.scss",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/charitywater-landingpage/assets/css/styles.css",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/charitywater-landingpage/assets/scss/normalize.css",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/charitywater-landingpage/index.html",
+		"/Users/cdawsonhall/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/Site/PublicHtml/css/rukus-overrides.css",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/style.css",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/style-centum.css",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/footer.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/loop.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/pftpl4col.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/header.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/single-portfolio.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/backend/shortcodes.php",
+		"/Users/cdawsonhall/Desktop/helptips.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-man/app/views/layouts/application.html.haml",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/app/views/pages/about.html.haml",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/app/views/pages/contact.html.haml",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/app/views/pages/home.html.haml",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/config/routes.rb",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/app/views/pages/about.html.erb",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/public/hello.html",
+		"/Users/cdawsonhall/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/.gitignore",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-portfolio4col-content.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-2ndlevpage.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-2ndlevpage-content.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/css/vfb-custom-css.css",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/single-testimonial.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/backend/helpers.php",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/sass-progress2.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/sass-progress.html",
+		"/Users/cdawsonhall/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/progress.css",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/Site/PublicHtml/index.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/views/layouts/application.html.haml",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/config/initializers/mime_types.rb",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/views/renders/index.html.haml",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/Site/PublicHtml/index4.html",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/js/jquery.gmap.min.js",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/stylesheets/z-bootstrap-responsive.css",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/javascripts/application.js",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/stylesheets/overrides-mediaelementplayer.scss",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/javascripts/mediaelement-and-player.min.js",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/content-single.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-portfolio4col-then-content.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/03_assets/themeforest-3216603-centum-responsive-wordpress-theme/Centum/backend/shortcodes.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-portfolio2col-content.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-portfolio4col.php",
+		"/Volumes/RenewPT.cdawsonhall/centum/pftpl1col.php",
+		"/Volumes/RenewPT.cdawsonhall/centum/style.css",
+		"/Volumes/RenewPT.cdawsonhall/centum/template-portfolio2col-content.php",
+		"/Volumes/RenewPT.cdawsonhall/centum/template-2ndlevpage.php",
+		"/Volumes/RenewPT.cdawsonhall/centum/functions.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/functions.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/pftpl1col.php",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/Site/PublicHtml/js/app.js",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/Site/PublicHtml/index3.html",
+		"/Users/cdawsonhall/Desktop/url query.js",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/views/layouts/_flash_messages.html.haml",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/Site/PublicHtml/css/rukus-bootstrap.css",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/content-pagefull.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-portfolio1col.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/pftpl.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/template-portfolio2col.php",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/centum-style.css",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/renewpt.css",
+		"/Users/cdawsonhall/Dropbox/CDH Work/RENEW Refresh/04_Production/renewpt/wp-content/themes/Centum/css/renewpt.css",
+		"/Users/cdawsonhall/Downloads/johndyer-mediaelement-9d3b9b7/build/mediaelement.js",
+		"/Users/cdawsonhall/Downloads/johndyer-mediaelement-9d3b9b7/build/mediaelement-and-player.js",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/views/renders/show.html.haml",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/public/500.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/public/postroll.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/views/renders/_social.html.haml",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/javascripts/analytics.js",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/public/404.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/analytics-test/videotest2.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/stylesheets/styles.css",
+		"/Users/cdawsonhall/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/cdawsonhall/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/public/SGT_example_01_compressed.mp4",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/views/leads/index.html.haml",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/stylesheets/overrides-mediaelementplayer.css",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/stylesheets/config.rb",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/analytics-test/Sass Global Travel.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/rukus-sass-html/css/responsive.css",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/controllers/renders_controller.rb",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/public/index.html",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/app/controllers/microposts_controller.rb",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/app/models/micropost.rb",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/app/models/user.rb",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/app/controllers/application_controller.rb",
+		"/Users/cdawsonhall/Documents/rails_projects/sample_app/Gemfile",
+		"/tmp/subl stdin EX6hjk.txt",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/app/views/users/index.html.erb",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/app/views/users/edit.html.erb",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/README.md",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/.gitignore",
+		"/Users/cdawsonhall/Documents/rails_projects/demo-app/Gemfile",
+		"/Users/cdawsonhall/Documents/rails_projects/first_app/.git/config",
+		"/Users/cdawsonhall/Documents/rails_projects/first_app/README.md",
+		"/Users/cdawsonhall/.bashrc",
+		"/Users/cdawsonhall/Documents/rails_projects/first_app/.gitignore",
+		"/Users/cdawsonhall/Documents/rails_projects/.gitignore",
+		"/Users/cdawsonhall/test",
+		"/Users/cdawsonhall/.txt",
+		"/Users/cdawsonhall/Documents/rails_projects/first_app/Gemfile",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/public/postroll_content.html",
+		"/Users/cdawsonhall/Dropbox/Public/Rukus-Public/PublicHtml/index.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/rukus-sass-html/postroll.html",
+		"/Users/cdawsonhall/Desktop/batch.rb",
+		"/Users/cdawsonhall/Desktop/member.csv",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/rukus-github/sass-man/app/assets/stylesheets/mediaelementplayer.css",
+		"/Users/cdawsonhall/Documents/chaseheidi.com/wp-config.php",
+		"/Users/cdawsonhall/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/cdawsonhall/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/index.html",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/less/app.less",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/less/fonts.less",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/less/variables.less",
+		"/Users/cdawsonhall/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/js/.jshintrc",
+		"/Users/cdawsonhall/Dropbox/SHARED FROM OTHERS/Rukus/sass-landing-page/production/hero.html",
+		"/Users/cdawsonhall/Downloads/twitter-bootstrap-d991ef2/Makefile",
+		"/Users/cdawsonhall/Dropbox/Public/Rukus-Public/Site/PublicHtml/PublicHtml/PublicHtml/rukus-overrides.css",
+		"/Users/cdawsonhall/Dropbox/Public/Rukus-Public/Site/PublicHtml/PublicHtml/app.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filter",
+			"item-description",
+			"tag",
+			"blog",
+			"post-description",
+			"back",
+			"filter",
+			"random",
+			"$role",
+			"a ",
+			"ico-white",
+			"input",
+			"page",
+			"9",
+			"progress",
+			"bar",
+			"thumb",
+			"clear",
+			"group",
+			"clearfix",
+			"clear",
+			"image",
+			"feature",
+			"@media",
+			"slide",
+			"nav",
+			"header-middle",
+			"top",
+			"border",
+			"column",
+			"url",
+			"img",
+			"placeholder",
+			"videoplay",
+			"/",
+			"shim",
+			";\n",
+			"form",
+			"section",
+			"background-image",
+			"rail",
+			"onClick",
+			"onclick",
+			"dropbox",
+			"onClick",
+			"&#39;",
+			"container",
+			"span",
+			"767",
+			"fluid",
+			"nav",
+			"fluid",
+			"}\n",
+			"fluid",
+			"btn-inverse",
+			".table-hover",
+			".checkbox",
+			".form-search",
+			"help",
+			".form-horizontal",
+			".row-fluid",
+			"klavika",
+			"5",
+			"register",
+			"register-form",
+			"png",
+			"top-cta",
+			"register",
+			"loading",
+			"url",
+			"url(",
+			"#0",
+			"/assets/photo-michellepark.jpg",
+			"color:",
+			"#1px #1px rgba",
+			"top-cta",
+			"cta",
+			"font-fam",
+			"max-width",
+			"min-width",
+			"klavika",
+			"btn-fb",
+			"video-header",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"onclick",
+			"onClick",
+			"onclick",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 307.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "charitywater.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"micro",
+				"app/controllers/microposts_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
